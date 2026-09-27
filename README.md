@@ -22,7 +22,6 @@
 5. [The Four Specialist Agents](#-the-four-specialist-agents)
 6. [Human-in-the-Loop Gate](#-human-in-the-loop-gate)
 7. [Repository / Module Map](#-repository--module-map)
-8. [20-Day Build Plan (3 Developers)](#-20-day-build-plan-3-developers)
 9. [Team & Ownership](#-team--ownership)
 10. [Getting Started](#-getting-started)
 11. [Environment Variables](#-environment-variables)
