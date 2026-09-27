@@ -342,4 +342,4 @@ This project is licensed under the MIT License — see [`LICENSE`](./LICENSE) fo
 
 ---
 
-<p align="center">Built with ❤️ by Dev A, Dev B & Dev C</p>
+<p align="center">Built with ❤️ by Dev Aviral, Dev Ishan & Dev Ishu</p>
